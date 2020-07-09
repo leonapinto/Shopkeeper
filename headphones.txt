@@ -1,0 +1,11 @@
+Name; Colour; Availability; Places Available in; Price; Tax
+JBL Audio Wireless Speaker; Black 13.3"; 50; 24-Chennai, 12-Pune, 14-Mumbai; 14490; 3
+Sony MDRXB50; Black; 15; 7-Coimbatore, 5-Chennai, 3-Bangalore; 10000; 3
+Beats Wireless; White;  34; 23-Bangalore, 11-Lucknow; 8990; 3
+Sony EX14AP; Black; 23; 13-Chennai, 10-Delhi; 1290; 3
+Bose QuietComfort35; Black; 15; 7-Coimbatore, 5-Chennai, 3-Bangalore; 29363; 3
+Sony WI-C310; Black; 26; 11-Surat, 15-Bombay; 2990; 3
+LG Tone Platinum; Black; 26; 7-Chennai, 4-Kolkata, 10-Mumbai, 5-Coimbatore; 3599; 3
+JBL Reflect Mini 2; Black; 12; 6-Chennai, 6-Mumbai; 5999; 3
+JBL Reflect Countour 2; White; 28; 10-Chennai, 11-Ahmedabad, 7-Chandigarh; 7430; 3
+Bose Noise Cancelling Headphones 700; Triple Black; 36; 23-Bombay, 13-Delhi; 34500; 3

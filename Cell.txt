@@ -1,0 +1,5 @@
+Cell Phone Name; Screen Size; Availability; Places Available in; Price; Tax
+OnePlus 8 Pro; 6.67" Fluid Amoled; 34; 23-Agra, 11-Coimbatore; 59999; 7.0
+Samsung Galaxy S10; 6.1"Dynamic AMOLED; 46; 13-Chennai, 22-Delhi, 11-Lucknow; 49990; 7.0
+OPPO F15; 6.4"; 65; 12-Pune, 32-Patna, 12-Kolkata, 9-Bangalore; 18990; 7.0
+Huawei Y9s; 6.59"; 43; 23-Chennai, 20-Kolkata; 19990; 7.0

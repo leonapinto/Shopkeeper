@@ -1,0 +1,9 @@
+Smart Appliances; Size; Availability; Places Available in; Price
+Insignia Mini Fridge; 3.0 Cu.Ft; 56; 34-Chandigarh, 22-Surat; 9359; 4
+Insignia Mini Fridge; 2.6 Cu.Ft; 34; 12-Pune, 22-Lucknow; 6479; 4
+GE Mid Size Microwave; 1.1 Cu.Ft; 22; 11-Delhi, 11-Ahmedabad; 6479; 4
+Insignia Top Freezer; 4.3 Cu.Ft; 28; 10-Chennai, 11-Ahmedabad, 7-Chandigarh; 13679; 4
+LG Family Size Microwave; 2.0 Cu.Ft; 34; 23-Bangalore, 11-Lucknow; 12239; 4
+Samsung French Door Refrigerator; 25.5 Cu.Ft; 12; 6-Chennai, 6-Mumbai; 115199; 4
+Samsung Top Freezer; 17.6 Cu.Ft; 14; 9-Lucknow, 5-Coimbatore; 53999; 4
+Samsung French Door Counter Depth Refrigerator; 17.5 Cu.Ft; 38; 23-Delhi, 15-Agra; 115199; 4

@@ -1,0 +1,8 @@
+Name; Specification; Availability; Places Available in; Price; Tax
+iPhone 11; 6.1"; 50; 24-Chennai, 12-Pune, 14-Mumbai; 68300; 3
+iPhone 7; 32Gb Black; 22; 11-Delhi, 11-Ahmedabad; 29499; 3
+iPad; 10.2"; 22; 11-Delhi, 11-Ahmedabad; 29900; 3
+Macbook Pro; 16" 16Gb RAM; 20; 10-Delhi, 10-Chennai; 189905; 3
+Apple Pencil; 2nd Gen; 34; 23-Bangalore, 11-Lucknow; 10900; 3
+Airpods Pro; White; 26; 7-Chennai, 4-Kolkata, 10-Mumbai, 5-Coimbatore; 24900; 3
+Apple watch series 5; Black Sports Band; 34; 23-Bangalore, 11-Lucknow; 52900; 3

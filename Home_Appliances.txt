@@ -1,0 +1,8 @@
+Name; Size; Availability; Places Available in; Price; Tax
+LG Top Loading Washer; 5.0 Cu.Ft; 33; 12-Chennai, 21-Chandigarh; 15690; 8.0
+Samsung Activewash; 5.2 Cu.Ft; 26; 11-Surat, 15-Bombay; 26490; 8.0
+LG Front Loading; 4.5 Cu.Ft; 22; 11-Delhi, 11-Ahmedabad; 28990; 8.0
+GE Front Loading Washer; 4 Cu.Ft; 10; 10-New Delhi; 28490; 8.0
+GE Electric Dryer; 7.4 Cu.Ft ; 22; 10-Coimbatore, 12-Chennai; 30000; 8.0
+Samsung Electric Dryer; 7.5 Cu.Ft; 56; 34-Chandigarh, 22-Surat; 17499; 8.0
+LG Smart Wi-Fi Steam Dryer; 7.4 Cu.Ft; 36; 23-Bombay, 13-Delhi; 20999; 8.0

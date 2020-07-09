@@ -1,0 +1,5 @@
+Tablet name; Screen size; Availbility; Places Available in; Price; Tax
+Amazon Fire HD 10; 10.1"; 23; 13-Chennai, 10-Delhi; 14990; 3.0
+Microsoft Surface Pro 7; 12.3"; 34; 12-Pune, 22-Lucknow; 102500; 3.0
+Digiland; 10.1"; 15; 7-Coimbatore, 5-Chennai, 3-Bangalore; 16990; 3.0
+Amazon Fire HD 8; 8"; 28; 10-Chennai, 11-Ahmedabad, 7-Chandigarh; 6700; 3.0

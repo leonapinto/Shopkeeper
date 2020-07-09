@@ -1,0 +1,6 @@
+Watch name; Specification; Availability; Places Available in; Prices
+Samsung Galaxy Smart Watch; 46mm Stainless Steel; 34; 23-Agra, 11-Coimbatore; 20990; 3
+Samsung Galaxy Active SmartWatch; 40mm Aluminium; 28; 10-Chennai, 11-Ahmedabad, 7-Chandigarh; 28990; 3
+Samsung Galaxy Watch Active2; 44m Aluminium; 3; 2-Chennai, 1-Kolkata; 29990; 3
+Samsung Galaxy SmartWatch; 42mm Stainless Steel; 43; 23-Chennai, 20-Kolkata; 23990; 3
+Fossil Gen 5 Smartwatch; 44mm Stainless Steel; 13; 7-Surat, 6-Patna; 22995; 3

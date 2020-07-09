@@ -1,0 +1,6 @@
+Laptop name; Screen Size; Availability; Places Available in; Price; Tax
+Google Pixelbook Go; 13.3"; 50; 24-Chennai, 12-Pune, 14-Mumbai; 27987; 5
+Dell Inspiron; 15.6"; 14; 9-Lucknow, 5-Coimbatore; 52996; 5
+HP Pavilion x360; 14"; 20; 10-Delhi, 10-Chennai; 119997; 5
+Lenovo Yoga C740; 14"; 34; 23-Bangalore, 11-Lucknow; 59997; 5
+Lenovo IdeaPad; 15.6"; 55; 50-Hyderabad, 5-Chennai; 56987; 5

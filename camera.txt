@@ -1,0 +1,7 @@
+Camera Name; Specs; Availability; Places Available in; Price; Tax
+Go Pro Hero8; Black; 38; 23-Delhi, 15-Agra; 36500; 6
+Canon EOS Rebel T7; Two Lens Kit with EF-S 18-55mm and EF 75-300mm Lenses; 65; 12-Pune, 32-Patna, 12-Kolkata, 9-Bangalore; 78774; 6
+Sony Alpha 6100; Mirrorless Camera 2 lens kit; 10; 10-New Delhi; 56241; 6
+Canon EOS RP; Mirrorless Camera RF 24-105; 14; 9-Lucknow, 5-Coimbatore; 80999; 6
+Nikon D5600; DSLR with AF-P DX NIKKOR 18-55mm; 28; 10-Chennai, 11-Ahmedabad, 7-Chandigarh; 51450; 6
+Sony Handycam AX53; 4K Flash Memory Premium;  13; 7-Surat, 6-Patna; 14999; 6

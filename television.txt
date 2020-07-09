@@ -1,0 +1,11 @@
+Television name; Size; Availability; Places Available in; Price; Tax
+Samsung; 65"; 2; Chennai, Kolkata; 159999; 8.0
+Hisense; 75"; 3; Kolkata, Mumbai, Delhi; 54990; 8.0
+TCL; 40"; 2; Bangalore,Hyderabad; 16299; 8.0
+Samsung 4K UHD TV; 65"; 9; 7-Chennai, 2-Kolkata; 20999; 8.0
+Hisense H65 4K; 75"; 26; 7-Chennai, 4-Kolkata, 10-Mumbai, 5-Coimbatore; 25000; 8.0
+TCL HDTV; 43"; 17; 7-Mumbai, 8-Pondichery, 1-Coimbatore; 69990; 8.0
+Sony Bravia X950H; 65"; 3; 2-Chennai, 1-Kolkata; 199990; 8.0
+LG Ai ThinQ; 82"; 6; 1-Coimbatore, 5-Kolkata; 24990; 8.0
+Insignia UHD; 43"; 12; 6-Chennai, 6-Mumbai; 28999; 8.0
+Mi Tv 4x; 43"; 10; 8-Coimbatore, 2-Pondichery; 24999; 8.0
