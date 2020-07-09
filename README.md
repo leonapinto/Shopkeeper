@@ -1,2 +1,4 @@
 # Store-development
-In the process of recreating a store inventory
+This was started with the motive of creating a store inventory.
+## Why?
+Just some Class-Work that needed to be done. Just do you know this is stll not done though. 
